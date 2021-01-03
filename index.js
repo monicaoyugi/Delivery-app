@@ -1,3 +1,4 @@
+ 
 let checkOutBttn = document.getElementById('checkoutBttn');
 let orderBttn = document.getElementById('orderBttn');
 let orderForm = document.getElementById('order-form');
